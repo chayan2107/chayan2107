@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chayan2107
+- 👋 Hi, I’m @chayan soni
 - 👀 I’m interested in Front end web Development 
 - 🌱 I’m currently getting better at html,css,js
 - 💞️ I’m looking to collaborate on git
