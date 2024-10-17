@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chayan2107
 - 👀 I’m interested in Front end web Development 
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently getting better at html,css,js
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me on linkedin www.linkedin.com/in/chayan-soni-b58b44245
 - 😄 Pronouns: AEIOYOUSHOULDCODE
